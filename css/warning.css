@@ -1,0 +1,15 @@
+.warning {
+    height: 50px;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bad {
+    background: RGB(196, 75, 67);
+}
+
+.good {
+    background: RGB(67, 196, 101);
+}
