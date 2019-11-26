@@ -374,6 +374,13 @@ li {
   }
 }
 
+@media (min-width: 1024px) {
+    .stop-scrolling {
+        height: 100%;
+        overflow: hidden;
+    }
+}
+
 @media (max-width: 767px) {
   .grid {
     display: -ms-grid;
